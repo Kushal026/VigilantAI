@@ -1,0 +1,4 @@
+project_id = "wechiwpvmznfocvkmnrc"
+
+[functions.ai-risk-analysis]
+verify_jwt = false
